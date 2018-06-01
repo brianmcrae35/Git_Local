@@ -57,6 +57,9 @@
     <DataWriteAllFilesInOneDirectory>True</DataWriteAllFilesInOneDirectory>
   </WriteToFileOptions>
   <DataFileSet>
-    <Count>0</Count>
+    <Count>3</Count>
+    <DataFile>Person.AddressType_Data.sql</DataFile>
+    <DataFile>Person.ContactType_Data.sql</DataFile>
+    <DataFile>Person.PhoneNumberType_Data.sql</DataFile>
   </DataFileSet>
 </DatabaseInformation>
